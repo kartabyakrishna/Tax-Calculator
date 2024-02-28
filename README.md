@@ -44,7 +44,8 @@ Welcome to the Tax-EMI Calculator app repository! This simple Android app allows
 ## Demo Video
 
 - Here's a quicl demonstration of the app,
-![Demo](https://github.com/kartabyakrishna/KartabyaKrishna/blob/main/Assets/tax-calculator/taxCal%20-%20Demo.gif | width=400)
+<img src="https://github.com/kartabyakrishna/KartabyaKrishna/blob/main/Assets/tax-calculator/taxCal%20-%20Demo.gif" width="400">
+
 
 Feel free to use, contribute, and provide feedback! If you encounter any issues or have suggestions, please open an issue in the repository.
 
